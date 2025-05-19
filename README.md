@@ -33,8 +33,8 @@ Train the model using the training data.
 Evaluate the model and plot predictions.
 
 ## Program
-#### Name: SWATHI D
-#### Register Number: 212222230154
+#### Name: SUJITHRA B K N
+#### Register Number: 212222230153
 
 ```Python 
 # Define RNN Model
